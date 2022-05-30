@@ -1,0 +1,10 @@
+C:\Users\Badem\source\repos\stenografi\stenografi\bin\Debug\stenografi.exe.config
+C:\Users\Badem\source\repos\stenografi\stenografi\bin\Debug\stenografi.exe
+C:\Users\Badem\source\repos\stenografi\stenografi\bin\Debug\stenografi.pdb
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.csproj.AssemblyReference.cache
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.Form1.resources
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.Properties.Resources.resources
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.csproj.GenerateResource.cache
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.csproj.CoreCompileInputs.cache
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.exe
+C:\Users\Badem\source\repos\stenografi\stenografi\obj\Debug\stenografi.pdb
